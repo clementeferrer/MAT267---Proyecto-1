@@ -1,1 +1,1 @@
-# MAT267---Proyecto-1
+# MAT267 (Series de Tiempo) - Modelos ingenuos
